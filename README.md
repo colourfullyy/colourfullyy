@@ -1,4 +1,10 @@
-- 🙌 Hi, I’m @colourfullyy
-- 👀 I'm interested in learning mainly html, and java. But I've been doing a lot of javascript lately!
-- 🌱 I’m not currently learning anything, but instead taking on projects, mainly in javascript, java, and html/css!
-- 📫 You can reach me on discord at colourfullyy#5309
+# Hi!
+
+I'm colourfullyy, and I'm a software developer from Canada!
+
+**Languages I know**
+I don't know anything by heart atm 😅 I enjoy java though!
+
+**Current Projects**
+voltage@https://github.com/colourfullyy/voltage
+voltage is a minecraft utility mod, not anything special! I'm developing it for my understanding of the minecraft api.
