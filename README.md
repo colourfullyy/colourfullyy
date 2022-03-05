@@ -12,4 +12,4 @@ voltage is a minecraft utility mod, not anything special! I'm developing it for 
 **Contacts**
 - You can contact me on discord at colourfullyy#5309
 
-I also have a website: https://www.colourfullyy.dev/
+I also have a website: https://www.colourfullyy.dev/ & https://colourfullyy.is-a.dev/
